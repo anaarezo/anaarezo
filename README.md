@@ -2,7 +2,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anaarezo//)](https://www.linkedin.com/in/anaarezo/)
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/anaarezo)](https://github.com/anaarezo)
-[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5511948997452&text=Hello!)](https://api.whatsapp.com/send?phone=5517996784887&text=Hello!)
+[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5511948997452&text=Hello!)](https://api.whatsapp.com/send?phone=5511948997452&text=Hello!)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:laura.arezo@gmail.com)](mailto:laura.arezo@gmail.com)
 ![4ff07986208593 5d9a654e92f36](https://user-images.githubusercontent.com/13490305/87845761-8fbbe600-c8a0-11ea-9d25-0244f35647f2.gif)
 
