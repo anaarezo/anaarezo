@@ -13,8 +13,8 @@ I like investigating new ways to leverage software and technology development to
 I have been front-end developer for 9 years exploring the information technology area and daily looking for new challenges. I am responsible for the development of online stores with 6 years of experience working in e-commerces of various segments and customers.
 
 ### Bio: <a href="https://github.com/anaarezo"><img align="left" width="150" src="https://user-images.githubusercontent.com/13490305/155627380-12548d81-8999-4b5a-982f-772b85313048.png"></a>
-- 👩🏻‍💻 Tech Lead - Software Engineer
-- 🏢 I'm currently working at **Itaú**
+- 👩🏻‍💻 Software Engineer
+- 🏢 I'm currently working at **Profound**
 - 🌱 Exploring **Flutter** and **Dart**
 - 💬 Ping me about **Accessibility**, **E-commerce**, **React**, **React Native**, **Development** 
 - 💟 Encourage women who are working in technology!!!
