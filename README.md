@@ -10,14 +10,16 @@ First and foremost, I am fascinated by technology!
 
 I like investigating new ways to leverage software and technology development to increase the inclusion of people in the virtual world transmitting knowledge and information through the accessible web.
 
-I have been front-end developer for 9 years exploring the information technology area and daily looking for new challenges. I am responsible for the development of online stores with 6 years of experience working in e-commerces of various segments and customers.
+I have worked with e-commerce for over 6 years and during my trajectory I have followed different user behaviors, user experience improvements, and strategies on how to make it increasingly friendly. Thus, being able to positively reach the final consumer/user.
+
+I have been a Front End developer for over 10 years, the experience allowed me during these years to cross several obstacles, learning in the development area, working with technology in financial institutions and e-commerce, working in different segments and customers. I'm constantly exploring the area of information technology and always looking for new challenges, updating and studying, to increasingly improve myself and achieve my career goals.
 
 ### Bio: <a href="https://github.com/anaarezo"><img align="left" width="150" src="https://user-images.githubusercontent.com/13490305/155627380-12548d81-8999-4b5a-982f-772b85313048.png"></a>
 - 👩🏻‍💻 Software Engineer
 - 🏢 I'm currently working at **Profound**
 - 🌱 Exploring **Flutter** and **Dart**
 - 💬 Ping me about **Accessibility**, **E-commerce**, **React**, **React Native**, **Development** 
-- 💟 Encourage women who are working in technology!!!
+- 💟 Encourage women who work in technology!!!
 
 <br /><br />
 ![Stats](https://github-readme-stats.vercel.app/api?username=anaarezo&count_private=true&show_icons=true&theme=dracula)
