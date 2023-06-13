@@ -16,7 +16,7 @@ I have been a Front End developer for over 10 years, the experience allowed me d
 
 ### Bio: <a href="https://github.com/anaarezo"><img align="left" width="150" src="https://user-images.githubusercontent.com/13490305/155627380-12548d81-8999-4b5a-982f-772b85313048.png"></a>
 - 👩🏻‍💻 Software Engineer
-- 🏢 I'm currently working at **Profound**
+- 🏢 I'm currently working at **LEGO**
 - 🌱 Exploring **Flutter** and **Dart**
 - 💬 Ping me about **Accessibility**, **E-commerce**, **React**, **React Native**, **Development** 
 - 💟 Encourage women who work in technology!!!
