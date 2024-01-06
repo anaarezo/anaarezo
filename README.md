@@ -21,6 +21,7 @@ I have been a Front End developer for over 10 years, the experience allowed me d
 - 💬 Ping me about **Accessibility**, **E-commerce**, **React**, **React Native**, **Development** 
 - 💟 Encourage women who work in technology!!!
 
+
 <p float="left" align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=anaarezo&theme=tokyo-night">
 </p>
