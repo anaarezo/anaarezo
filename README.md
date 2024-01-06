@@ -8,9 +8,9 @@
 
 Passionate about technology, I am driven by the ever-evolving landscape of software and technology development. My goal is to harness these advancements to foster inclusivity in the virtual realm, facilitating the seamless transmission of knowledge and information through the accessible web.
 
-With over 10 years of experience as a Front End developer, I have honed my skills by navigating diverse challenges in the development field. My journey includes significant stints in financial institutions and e-commerce, where I dedicated over 6 years to understanding user behaviors, enhancing user experiences, and devising strategies to create user-friendly interfaces. This journey has equipped me to make a positive impact on the end consumer.
+With over 13 years of experience as a Front End developer, I have honed my skills by navigating diverse challenges in the development field. My journey includes significant stints in financial institutions and e-commerce, where I dedicated over 7 years to understanding user behaviors, enhancing user experiences, and devising strategies to create user-friendly interfaces. This journey has equipped me to make a positive impact on the end consumer.
 
-Currently employed at LEGO, I continue to explore and innovate, delving into the realms of Flutter and Dart. I am steadfast in my commitment to staying abreast of the latest developments in information technology, perpetually seeking new challenges to further refine my skills and accomplish career milestones.
+Currently employed at LEGO, I continue to explore and innovate, delving into the realms of mobile apps development. I am steadfast in my commitment to staying abreast of the latest developments in information technology, perpetually seeking new challenges to further refine my skills and accomplish career milestones.
 
 ### Bio: <a href="https://github.com/anaarezo"><img align="left" width="150" src="https://user-images.githubusercontent.com/13490305/155627380-12548d81-8999-4b5a-982f-772b85313048.png"></a>
 - 👩🏻‍💻 Software Engineer
