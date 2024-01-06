@@ -6,20 +6,17 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:laura.arezo@gmail.com)](mailto:laura.arezo@gmail.com)
 
 
-First and foremost, I am fascinated by technology!
+Passionate about technology, I am driven by the ever-evolving landscape of software and technology development. My goal is to harness these advancements to foster inclusivity in the virtual realm, facilitating the seamless transmission of knowledge and information through the accessible web.
 
-I like investigating new ways to leverage software and technology development to increase the inclusion of people in the virtual world transmitting knowledge and information through the accessible web.
+With over 10 years of experience as a Front End developer, I have honed my skills by navigating diverse challenges in the development field. My journey includes significant stints in financial institutions and e-commerce, where I dedicated over 6 years to understanding user behaviors, enhancing user experiences, and devising strategies to create user-friendly interfaces. This journey has equipped me to make a positive impact on the end consumer.
 
-I have worked with e-commerce for over 6 years and during my trajectory I have followed different user behaviors, user experience improvements, and strategies on how to make it increasingly friendly. Thus, being able to positively reach the final consumer/user.
-
-I have been a Front End developer for over 10 years, the experience allowed me during these years to cross several obstacles, learning in the development area, working with technology in financial institutions and e-commerce, working in different segments and customers. I'm constantly exploring the area of information technology and always looking for new challenges, updating and studying, to increasingly improve myself and achieve my career goals.
+Currently employed at LEGO, I continue to explore and innovate, delving into the realms of Flutter and Dart. I am steadfast in my commitment to staying abreast of the latest developments in information technology, perpetually seeking new challenges to further refine my skills and accomplish career milestones.
 
 ### Bio: <a href="https://github.com/anaarezo"><img align="left" width="150" src="https://user-images.githubusercontent.com/13490305/155627380-12548d81-8999-4b5a-982f-772b85313048.png"></a>
 - 👩🏻‍💻 Software Engineer
 - 🏢 I'm currently working at **LEGO**
-- 🌱 Exploring **Flutter** and **Dart**
+- 🌱 Exploring **AWS** and **Swift**
 - 💬 Ping me about **Accessibility**, **E-commerce**, **React**, **React Native**, **Development** 
-- 💟 Encourage women who work in technology!!!
 
 <br /><br />
 <p float="left" align="center">
