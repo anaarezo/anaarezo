@@ -1,4 +1,4 @@
-# Hi, i'm Ana Arezo 👋 👩🏻‍💻
+# Hello there, i'm Ana Arezo 🙃
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anaarezo//)](https://www.linkedin.com/in/anaarezo/)
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/anaarezo)](https://github.com/anaarezo)
