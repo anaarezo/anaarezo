@@ -20,7 +20,7 @@ Currently employed at LEGO, I continue to explore and innovate, delving into the
 - 🫧 Let's code!
 
 <br /><br />
-![Stats](https://github-readme-stats.vercel.app/api?username=anaarezo&count_private=true&show_icons=true&theme=radical)
+<!--![Stats](https://github-readme-stats.vercel.app/api?username=anaarezo&count_private=true&show_icons=true&theme=radical)-->
 
 <p float="left" align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=anaarezo&theme=dracula">
