@@ -16,7 +16,6 @@ Currently employed at LEGO, I continue to explore and innovate, delving into the
 - 👩🏻‍💻 Software Engineer
 - 🏢 I'm currently working at **LEGO**
 - 🌱 Exploring **AWS** and **AI**
-- 💬 Ping me about **Accessibility**, **E-commerce**, **React**, **React Native**, **Development**
 - 🫧 Let's code!
 
 <br /><br />
