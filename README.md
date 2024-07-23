@@ -15,7 +15,7 @@ Currently employed at LEGO, I continue to explore and innovate, delving into the
 ### Bio: <a href="https://github.com/anaarezo"><img align="left" width="150" src="https://user-images.githubusercontent.com/13490305/155627380-12548d81-8999-4b5a-982f-772b85313048.png"></a>
 - 👩🏻‍💻 Software Engineer
 - 🏢 I'm currently working at **LEGO**
-- 🌱 Exploring **AWS** and **AI**
+- 🌱 Exploring **AWS** and **Gen AI**
 - 🫧 Let's code!
 
 <br /><br />
