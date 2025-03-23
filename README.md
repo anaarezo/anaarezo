@@ -21,5 +21,5 @@ At present, I continue my journey into the realms of mobile app development—be
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=447423393211&text=Hello!)](https://api.whatsapp.com/send?phone=447423393211&text=Hello!)
 
 <p float="left" align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anaarezo&theme=dracula">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anaarezo&theme=monokai">
 </p>
