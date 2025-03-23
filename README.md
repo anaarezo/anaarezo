@@ -1,6 +1,6 @@
 ![github-user-contribution](https://github.com/user-attachments/assets/88f96dbc-11c2-4215-8b6a-df93c2ffbbc2)
 
-# ✨ Greetings, curious guest!
+# ✨ Greetings, curious visitor!
 Passionate about technology, I thrive on the ever-changing landscape of software development. My mission? To wield these advancements like a digital wizard, crafting an inclusive, seamless, and accessible web where knowledge flows as effortlessly as a perfectly brewed cup of tea. ☕️
 
 With 15+ years of experience as a Software Engineer, I’ve navigated the wild seas of development, from the intricate vaults of financial institutions to the ever-bustling world of e-commerce. For over 10 years, I have meticulously analysed user behaviours, enhanced experiences, and devised cunning strategies to make interfaces as intuitive as instinct itself.
