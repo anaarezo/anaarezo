@@ -20,7 +20,7 @@ At present, I continue my journey into the realms of mobile app development—be
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:laura.arezo@gmail.com)](mailto:laura.arezo@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anaarezo//)](https://www.linkedin.com/in/anaarezo/)
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=447423393211&text=Hello!)](https://api.whatsapp.com/send?phone=447423393211&text=Hello!)
-![](https://komarev.com/ghpvc/?username=anaarezo&color=dc143c)
+![](https://komarev.com/ghpvc/?username=anaarezo&color=ff69b4)
 
 <p float="left" align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=anaarezo&theme=monokai">
