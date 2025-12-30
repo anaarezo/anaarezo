@@ -27,3 +27,7 @@ At present, I continue my journey into the realms of mobile app development beca
 <p float="left" align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=anaarezo&theme=monokai">
 </p>
+
+
+> [!NOTE]
+> 🎉 test
