@@ -11,7 +11,7 @@ At present, I continue my journey into the realms of mobile app development beca
 ### Bio: <a href="https://github.com/anaarezo"><img align="left" width="150" src="https://user-images.githubusercontent.com/13490305/155627380-12548d81-8999-4b5a-982f-772b85313048.png"></a>
 - 👩🏻‍💻 Software Engineer
 - 🇬🇧 Coding in London
-- 🏢 Currently coding magic at LEGO
+- 🏢 Currently coding at Curation
 - 🌱 Experimenting with AWS and Generative AI
 - 🫧 Smashing bugs
 
