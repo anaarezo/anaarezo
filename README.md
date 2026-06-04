@@ -3,16 +3,16 @@
 # ✨ Greetings, curious visitor!
 Passionate about technology, I thrive on the ever-changing landscape of software development. My mission? To wield these advancements like a digital wizard, crafting an inclusive, seamless, and accessible web where knowledge flows as effortlessly as a perfectly brewed cup of tea. ☕️
 
-With 15+ years of experience as a Software Engineer, I’ve navigated the wild seas of development, from the intricate vaults of financial institutions to the ever-bustling world of e-commerce. For over 10 years, I have meticulously analysed user behaviours, enhanced experiences, and devised cunning strategies to make interfaces as intuitive as instinct itself.
+With 16+ years of experience as a Software Engineer, I’ve navigated the wild seas of development, from the intricate vaults of financial institutions to the ever-bustling world of e-commerce. For over 10 years, I have meticulously analysed user behaviours, enhanced experiences, and devised cunning strategies to make interfaces as intuitive as instinct itself.
 
 At present, I continue my journey into the realms of mobile app development because why stop at websites when you can build entire experiences? I keep my tech toolkit sharp by constantly exploring the latest advancements, including AWS and Generative AI.
 
 
 ### Bio: <a href="https://github.com/anaarezo"><img align="left" width="150" src="https://user-images.githubusercontent.com/13490305/155627380-12548d81-8999-4b5a-982f-772b85313048.png"></a>
-- 👩🏻‍💻 Software Engineer
-- 🇬🇧 Coding in London
+- 👩🏻‍💻 Lead Front End Engineer
+- 🇬🇧 London, United Kingdom
 - 🏢 Currently coding at Curation
-- 🌱 Experimenting with AWS and Generative AI
+- 🌱 Experimenting with AWS, AI and Python
 - 🫧 Smashing bugs
 
 
