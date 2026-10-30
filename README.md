@@ -56,5 +56,5 @@ Today I'm taking that craft further into mobile app development, while keeping m
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/credits-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/credits-light.svg">
-  <img width="100%" alt="End credits. Directed by Ana Arezo. Produced at Curation. Filmed on location in London, UK. Written in TypeScript. Starring React and React Native. Styled with Tailwind CSS. Tested with Vitest and Jest. Fuelled by a perfectly brewed cup of tea. That's a wrap." src="assets/credits-dark.svg">
+  <img width="100%" alt="End credits. Directed by Ana Arezo. Produced at Curation. Filmed on location in London, UK. Starring Ana Arezo, React Native and React. Styled with Tailwind CSS. Tested with Vitest and Jest. Fuelled by a perfectly brewed cup of tea. That's a wrap." src="assets/credits-dark.svg">
 </picture>
