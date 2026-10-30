@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 360" width="1000" height="360" role="img" aria-labelledby="t d">
 <title id="t">Ana Arezo, Mobile Engineer</title>
-<desc id="d">A grindhouse film title card in black, yellow and red, beside a code panel. React Native, Expo and Swift for mobile, and React for the web. 16+ years.</desc>
+<desc id="d">A grindhouse film title card in black, yellow and red, beside a code panel. React Native and Expo for mobile, and React for the web. 16+ years.</desc>
 <defs><clipPath id="r"><rect width="1000" height="360" rx="14"/></clipPath>
 <radialGradient id="bn"><stop offset="0" stop-color="#fff6d0"/><stop offset=".45" stop-color="#ff9a1f"/><stop offset=".8" stop-color="#d7261e"/><stop offset="1" stop-color="#d7261e" stop-opacity="0"/></radialGradient>
 <filter id="gr"><feTurbulence type="fractalNoise" baseFrequency=".85" numOctaves="2" stitchTiles="stitch"/><feColorMatrix type="saturate" values="0"/></filter></defs>
@@ -25,8 +25,8 @@
 .rb{animation:sl .3s ease-out 3s both}
 .h3{animation:in .3s steps(3) 3.2s both}.h4{animation:in .3s steps(3) 3.35s both}
 .ty{animation-name:ty;animation-fill-mode:both}
-.st{animation:stamp .3s cubic-bezier(.2,.9,.3,1) 8.24s both,wob 3s ease-in-out 8.54s infinite}
-.cur{animation:bl 1s linear 8.24s infinite}
+.st{animation:stamp .3s cubic-bezier(.2,.9,.3,1) 8.06s both,wob 3s ease-in-out 8.36s infinite}
+.cur{animation:bl 1s linear 8.06s infinite}
 .jump{animation:jump 11s steps(1) 4s infinite}
 @keyframes wr{0%,32%{opacity:1}33%,100%{opacity:0}}
 @keyframes fk{0%,100%{opacity:1}40%{opacity:.9}70%{opacity:.96}}
@@ -50,7 +50,7 @@
 <text class="e" x="52" y="72">A MOBILE PICTURE</text>
 <g class="ng"><text class="n" x="48" y="170">ANA AREZO</text></g>
 <g class="rb"><rect x="48" y="188" width="238" height="42" fill="#d7261e" transform="skewX(-10) translate(36)"/><text class="r" x="62" y="220">MOBILE ENGINEER</text></g>
-<text class="u h3" x="52" y="262">React Native · Expo · Swift · React for web</text>
+<text class="u h3" x="52" y="262">React Native · Expo · React for web</text>
 <text class="w h4" x="52" y="302">// say "undefined" again.</text>
 <rect x="520" y="36" width="444" height="288" rx="4" fill="#f5c518"/>
 <text class="f" x="544" y="66">PROLOGUE</text><text class="fm" x="940" y="64" text-anchor="end">ana.tsx</text>
@@ -59,10 +59,10 @@
 <text class="c ty" x="544" y="136" style="animation-delay:3.89s;animation-duration:0.54s;animation-timing-function:steps(27)" xml:space="preserve">  <tspan class="p">title</tspan>: <tspan class="s">"Mobile Engineer"</tspan>,</text>
 <text class="c ty" x="544" y="160" style="animation-delay:4.48s;animation-duration:0.50s;animation-timing-function:steps(25)" xml:space="preserve">  <tspan class="p">location</tspan>: <tspan class="s">"London, UK"</tspan>,</text>
 <text class="c ty" x="544" y="184" style="animation-delay:5.03s;animation-duration:0.78s;animation-timing-function:steps(39)" xml:space="preserve">  <tspan class="p">platforms</tspan>: [<tspan class="s">"iOS"</tspan>, <tspan class="s">"Android"</tspan>, <tspan class="s">"Web"</tspan>],</text>
-<text class="c ty" x="544" y="208" style="animation-delay:5.86s;animation-duration:1.02s;animation-timing-function:steps(51)" xml:space="preserve">  <tspan class="p">cast</tspan>: [<tspan class="s">"React Native"</tspan>, <tspan class="s">"Expo"</tspan>, <tspan class="s">"Swift"</tspan>, <tspan class="s">"React"</tspan>],</text>
-<text class="c ty" x="544" y="232" style="animation-delay:6.93s;animation-duration:0.66s;animation-timing-function:steps(33)" xml:space="preserve">  <tspan class="p">genre</tspan>: [<tspan class="s">"accessibility"</tspan>, <tspan class="s">"AI"</tspan>],</text>
-<text class="c ty" x="544" y="256" style="animation-delay:7.64s;animation-duration:0.46s;animation-timing-function:steps(23)" xml:space="preserve">  <tspan class="p">runtime</tspan>: <tspan class="s">"16+ years"</tspan>,</text>
-<text class="c ty" x="544" y="280" style="animation-delay:8.15s;animation-duration:0.04s;animation-timing-function:steps(2)" xml:space="preserve">};</text>
+<text class="c ty" x="544" y="208" style="animation-delay:5.86s;animation-duration:0.84s;animation-timing-function:steps(42)" xml:space="preserve">  <tspan class="p">cast</tspan>: [<tspan class="s">"React Native"</tspan>, <tspan class="s">"Expo"</tspan>, <tspan class="s">"React"</tspan>],</text>
+<text class="c ty" x="544" y="232" style="animation-delay:6.75s;animation-duration:0.66s;animation-timing-function:steps(33)" xml:space="preserve">  <tspan class="p">genre</tspan>: [<tspan class="s">"accessibility"</tspan>, <tspan class="s">"AI"</tspan>],</text>
+<text class="c ty" x="544" y="256" style="animation-delay:7.46s;animation-duration:0.46s;animation-timing-function:steps(23)" xml:space="preserve">  <tspan class="p">runtime</tspan>: <tspan class="s">"16+ years"</tspan>,</text>
+<text class="c ty" x="544" y="280" style="animation-delay:7.97s;animation-duration:0.04s;animation-timing-function:steps(2)" xml:space="preserve">};</text>
 <rect class="cur" x="566" y="285" width="8" height="2" fill="#201800"/>
 <g class="st" transform="rotate(-8 912 286)"><polygon points="966.0,286.0 954.9,295.8 960.7,309.4 946.4,313.4 945.7,328.2 931.1,325.6 924.0,338.6 912.0,330.0 900.0,338.6 892.9,325.6 878.3,328.2 877.6,313.4 863.3,309.4 869.1,295.8 858.0,286.0 869.1,276.2 863.3,262.6 877.6,258.6 878.3,243.8 892.9,246.4 900.0,233.4 912.0,242.0 924.0,233.4 931.1,246.4 945.7,243.8 946.4,258.6 960.7,262.6 954.9,276.2" fill="#d7261e"/><text class="b1" x="912" y="290" text-anchor="middle">16+</text><text class="b2" x="912" y="307" text-anchor="middle">YEARS</text></g>
 </g></g>

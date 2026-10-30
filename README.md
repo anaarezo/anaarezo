@@ -2,7 +2,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="assets/hero-light.svg">
-    <img width="100%" alt="Ana Arezo, Mobile Engineer. React Native, Expo and Swift for mobile, and React for the web." src="assets/hero-dark.svg">
+    <img width="100%" alt="Ana Arezo, Mobile Engineer. React Native and Expo for mobile, and React for the web." src="assets/hero-dark.svg">
   </picture>
 </a>
 
@@ -18,7 +18,7 @@ I'm a Mobile Engineer in London, building for iOS and Android first and for the 
 
 Over 16+ years I've engineered software from the intricate vaults of financial institutions to the bustling world of e-commerce. For more than 10 of those years I've studied how people really use interfaces, then shaped those interfaces to feel as intuitive as instinct.
 
-Today mobile is my main stage, with React Native, Expo and Swift, while React keeps me building for the web and AWS, Python and Generative AI keep my toolkit sharp. When the laptop closes, the projector starts: I'm an obsessive cinephile.
+Today mobile is my main stage, with React Native and Expo, while React keeps me building for the web and AWS, Python and Generative AI keep my toolkit sharp. When the laptop closes, the projector starts: I'm an obsessive cinephile.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/highlights-dark.svg">
