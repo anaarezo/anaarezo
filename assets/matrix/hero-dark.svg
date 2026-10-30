@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 360" width="1000" height="360" role="img" aria-labelledby="t d">
-<title id="t">Ana Arezo, Lead Front End Engineer</title>
+<title id="t">Ana Arezo, Software Engineer</title>
 <desc id="d">React, React Native and TypeScript, shown over green Matrix-style digital rain. Follow the white rabbit.</desc>
 <defs>
 <clipPath id="r"><rect width="1000" height="360" rx="16"/></clipPath>
@@ -39,8 +39,7 @@
 <text class="f" x="606" y="68">ana.ts</text>
 <line x1="520" y1="86" x2="960" y2="86" stroke="#00ff41" stroke-opacity=".3"/>
 <text class="c l" x="544" y="114" style="animation-delay:0.40s" xml:space="preserve"><tspan class="k">const</tspan> ana = {</text>
-<text class="c l" x="544" y="140" style="animation-delay:0.62s" xml:space="preserve">  <tspan class="p">role</tspan>: <tspan class="s">"Lead Front End Engineer"</tspan>,</text>
-<text class="c l" x="544" y="166" style="animation-delay:0.84s" xml:space="preserve">  <tspan class="p">company</tspan>: <tspan class="s">"Curation"</tspan>,</text>
+<text class="c l" x="544" y="140" style="animation-delay:0.62s" xml:space="preserve">  <tspan class="p">role</tspan>: <tspan class="s">"Software Engineer"</tspan>,</text>
 <text class="c l" x="544" y="192" style="animation-delay:1.06s" xml:space="preserve">  <tspan class="p">location</tspan>: <tspan class="s">"London, UK"</tspan>,</text>
 <text class="c l" x="544" y="218" style="animation-delay:1.28s" xml:space="preserve">  <tspan class="p">stack</tspan>: [<tspan class="s">"React"</tspan>, <tspan class="s">"React Native"</tspan>, <tspan class="s">"TypeScript"</tspan>],</text>
 <text class="c l" x="544" y="244" style="animation-delay:1.50s" xml:space="preserve">  <tspan class="p">focus</tspan>: [<tspan class="s">"accessibility"</tspan>, <tspan class="s">"mobile"</tspan>, <tspan class="s">"AI"</tspan>],</text>
