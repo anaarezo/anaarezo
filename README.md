@@ -7,7 +7,7 @@
 </a>
 
 <p align="center">
-  <a href="https://anaarezo.github.io"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-F3EAD6?style=for-the-badge"></a>
+  <a href="https://anaarezo.github.io"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-F5C518?style=for-the-badge"></a>
   <a href="https://www.linkedin.com/in/anaarezo/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:laura.arezo@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-D7261E?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
@@ -30,7 +30,7 @@ Today mobile is my main stage, with React Native, Expo and Swift, while React ke
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=anaarezo&theme=dark&hide_border=true&background=00000000&ring=F3EAD6&fire=D7261E&currStreakLabel=F3EAD6&currStreakNum=F3EAD6&sideNums=F3EAD6&sideLabels=F3EAD6&dates=CFC6B4&stroke=F3EAD6">
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=anaarezo&theme=dark&hide_border=true&background=00000000&ring=F5C518&fire=D7261E&currStreakLabel=F5C518&currStreakNum=F5C518&sideNums=F5C518&sideLabels=F5C518&dates=D9D2BB&stroke=F5C518">
     <img alt="Ana's GitHub contribution streak" src="https://streak-stats.demolab.com?user=anaarezo&hide_border=true&background=00000000&ring=9E0F0A&fire=D7261E&currStreakLabel=9E0F0A&stroke=9E0F0A">
   </picture>
 </p>

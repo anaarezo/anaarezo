@@ -2,16 +2,16 @@
 <title id="t">Ana Arezo, Mobile Engineer</title>
 <desc id="d">A grindhouse film title card in black, yellow and red, beside a code panel. React Native, Expo and Swift for mobile, and React for the web. 16+ years.</desc>
 <defs><clipPath id="r"><rect width="1000" height="360" rx="14"/></clipPath>
-<radialGradient id="bn"><stop offset="0" stop-color="#fff0e6"/><stop offset=".45" stop-color="#e8502a"/><stop offset=".8" stop-color="#d7261e"/><stop offset="1" stop-color="#d7261e" stop-opacity="0"/></radialGradient>
+<radialGradient id="bn"><stop offset="0" stop-color="#fff6d0"/><stop offset=".45" stop-color="#ff9a1f"/><stop offset=".8" stop-color="#d7261e"/><stop offset="1" stop-color="#d7261e" stop-opacity="0"/></radialGradient>
 <filter id="gr"><feTurbulence type="fractalNoise" baseFrequency=".85" numOctaves="2" stitchTiles="stitch"/><feColorMatrix type="saturate" values="0"/></filter></defs>
 <style>
-.e{font:700 13px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;letter-spacing:.34em;fill:#9e0f0a}
+.e{font:700 13px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;letter-spacing:.34em;fill:#0a0a0a}
 .n{font:400 98px Impact,Haettenschweiler,'Arial Narrow Bold','Arial Black',sans-serif;letter-spacing:.01em;fill:#0a0a0a}.r{font:400 26px Impact,Haettenschweiler,'Arial Narrow Bold','Arial Black',sans-serif;letter-spacing:.06em;fill:#fff}
-.u{font:700 16px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;fill:#2a2420}.w{font:700 15px 'Courier New',Courier,ui-monospace,monospace;fill:#2a2420}
-.c{font:700 13px 'Courier New',Courier,ui-monospace,monospace;fill:#f3ead6}.s{fill:#ffffff}.k{fill:#ff6a5e}.p{fill:#f3ead6}
-.f{font:400 20px Impact,Haettenschweiler,'Arial Narrow Bold','Arial Black',sans-serif;letter-spacing:.08em;fill:#f3ead6}.fm{font:700 12px 'Courier New',Courier,ui-monospace,monospace;fill:#f3ead6}
+.u{font:700 16px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;fill:#2a2100}.w{font:700 15px 'Courier New',Courier,ui-monospace,monospace;fill:#2a2100}
+.c{font:700 13px 'Courier New',Courier,ui-monospace,monospace;fill:#f5c518}.s{fill:#fff1c2}.k{fill:#ff6a5e}.p{fill:#f5c518}
+.f{font:400 20px Impact,Haettenschweiler,'Arial Narrow Bold','Arial Black',sans-serif;letter-spacing:.08em;fill:#f5c518}.fm{font:700 12px 'Courier New',Courier,ui-monospace,monospace;fill:#f5c518}
 .b1{font:400 30px Impact,Haettenschweiler,'Arial Narrow Bold','Arial Black',sans-serif;fill:#fff}.b2{font:400 13px Impact,Haettenschweiler,'Arial Narrow Bold','Arial Black',sans-serif;letter-spacing:.1em;fill:#fff}
-.lt{font:400 72px Impact,Haettenschweiler,'Arial Narrow Bold','Arial Black',sans-serif;fill:#f3ead6;letter-spacing:.03em}.ls{font:700 14px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;letter-spacing:.4em;fill:#f5efd8}
+.lt{font:400 72px Impact,Haettenschweiler,'Arial Narrow Bold','Arial Black',sans-serif;fill:#f5c518;letter-spacing:.03em}.ls{font:700 14px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;letter-spacing:.4em;fill:#f5efd8}
 .wr,.cur{opacity:0}.ld{display:none}.st{transform-origin:912px 286px}.ng{transform-origin:48px 170px}.rb{transform-origin:48px 210px}.bn{transform-origin:500px 180px}
 @media (prefers-reduced-motion:no-preference){
 .wr{animation:wr .36s steps(1) infinite}
@@ -45,7 +45,7 @@
 }
 </style>
 <g clip-path="url(#r)">
-<rect width="1000" height="360" fill="#f3ead6"/>
+<rect width="1000" height="360" fill="#f2c21a"/>
 <g class="jump"><g class="fk hit">
 <text class="e" x="52" y="72">A MOBILE PICTURE</text>
 <g class="ng"><text class="n" x="48" y="170">ANA AREZO</text></g>
@@ -54,7 +54,7 @@
 <text class="w h4" x="52" y="302">// say "undefined" again.</text>
 <rect x="520" y="36" width="444" height="288" rx="4" fill="#0e0e0e"/>
 <text class="f" x="544" y="66">PROLOGUE</text><text class="fm" x="940" y="64" text-anchor="end">ana.tsx</text>
-<line x1="544" y1="78" x2="940" y2="78" stroke="#f3ead6" stroke-width="2"/>
+<line x1="544" y1="78" x2="940" y2="78" stroke="#f5c518" stroke-width="2"/>
 <text class="c ty" x="544" y="112" style="animation-delay:3.50s;animation-duration:0.34s;animation-timing-function:steps(17)" xml:space="preserve"><tspan class="k">const</tspan> picture = {</text>
 <text class="c ty" x="544" y="136" style="animation-delay:3.89s;animation-duration:0.54s;animation-timing-function:steps(27)" xml:space="preserve">  <tspan class="p">title</tspan>: <tspan class="s">"Mobile Engineer"</tspan>,</text>
 <text class="c ty" x="544" y="160" style="animation-delay:4.48s;animation-duration:0.50s;animation-timing-function:steps(25)" xml:space="preserve">  <tspan class="p">location</tspan>: <tspan class="s">"London, UK"</tspan>,</text>
@@ -63,7 +63,7 @@
 <text class="c ty" x="544" y="232" style="animation-delay:6.93s;animation-duration:0.66s;animation-timing-function:steps(33)" xml:space="preserve">  <tspan class="p">genre</tspan>: [<tspan class="s">"accessibility"</tspan>, <tspan class="s">"AI"</tspan>],</text>
 <text class="c ty" x="544" y="256" style="animation-delay:7.64s;animation-duration:0.46s;animation-timing-function:steps(23)" xml:space="preserve">  <tspan class="p">runtime</tspan>: <tspan class="s">"16+ years"</tspan>,</text>
 <text class="c ty" x="544" y="280" style="animation-delay:8.15s;animation-duration:0.04s;animation-timing-function:steps(2)" xml:space="preserve">};</text>
-<rect class="cur" x="566" y="285" width="8" height="2" fill="#f3ead6"/>
+<rect class="cur" x="566" y="285" width="8" height="2" fill="#f5c518"/>
 <g class="st" transform="rotate(-8 912 286)"><polygon points="966.0,286.0 954.9,295.8 960.7,309.4 946.4,313.4 945.7,328.2 931.1,325.6 924.0,338.6 912.0,330.0 900.0,338.6 892.9,325.6 878.3,328.2 877.6,313.4 863.3,309.4 869.1,295.8 858.0,286.0 869.1,276.2 863.3,262.6 877.6,258.6 878.3,243.8 892.9,246.4 900.0,233.4 912.0,242.0 924.0,233.4 931.1,246.4 945.7,243.8 946.4,258.6 960.7,262.6 954.9,276.2" fill="#d7261e"/><text class="b1" x="912" y="290" text-anchor="middle">16+</text><text class="b2" x="912" y="307" text-anchor="middle">YEARS</text></g>
 </g></g>
 <rect width="1000" height="360" filter="url(#gr)" opacity=".08"/>
