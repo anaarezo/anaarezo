@@ -12,35 +12,35 @@
   <a href="mailto:laura.arezo@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-C14438?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
-## About
+## 🎬 Scene 1: Synopsis
 
 I'm a Lead Front End Engineer in London, currently at Curation. My mission is to build an inclusive, seamless and accessible web, where knowledge flows as effortlessly as a perfectly brewed cup of tea. ☕️
 
 Over 16+ years I've engineered software from the intricate vaults of financial institutions to the bustling world of e-commerce. For more than 10 of those years I've studied how people really use interfaces, then shaped those interfaces to feel as intuitive as instinct.
 
-Today I'm taking that craft further into mobile app development, while keeping my toolkit sharp with AWS, Python and Generative AI.
+Today I'm taking that craft further into mobile app development, while keeping my toolkit sharp with AWS, Python and Generative AI. When the laptop closes, the projector starts: I'm an obsessive cinephile.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/highlights-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/highlights-light.svg">
-  <img width="100%" alt="16+ years of software engineering. 10+ years of user behaviour and experience work. Finance to e-commerce." src="assets/highlights-dark.svg">
+  <img width="100%" alt="Runtime: 16+ years of software engineering. Director's cut: 10+ years of user behaviour and experience work. Genres: finance to e-commerce." src="assets/highlights-dark.svg">
 </picture>
 
-## Toolkit
+## 🎭 Scene 2: Cast and crew
 
 <p align="center">
   <img alt="React, Next.js, TypeScript, JavaScript, Tailwind CSS, Vitest, Jest, AWS, Python and Swift" src="assets/toolkit.svg">
 </p>
 
-## Selected work
+## 🎞️ Scene 3: Filmography
 
-| Project | Summary |
+| Title | Logline |
 | --- | --- |
 | [react-native-a11y-components](https://github.com/anaarezo/react-native-a11y-components) | A collection of accessible React Native components |
 | [carousel-play-pause-react-native](https://github.com/anaarezo/carousel-play-pause-react-native) | A React Native carousel with play and pause, and a progress bar on its pagination |
 | [react-native-1001](https://github.com/anaarezo/react-native-1001) | A library of React Native components |
 
-## Activity
+## 🍿 Scene 4: Box office
 
 <p align="center">
   <picture>
@@ -50,3 +50,11 @@ Today I'm taking that craft further into mobile app development, while keeping m
 </p>
 
 ![Ana's GitHub contribution graph](https://github.com/user-attachments/assets/88f96dbc-11c2-4215-8b6a-df93c2ffbbc2)
+
+## 🎞️ Roll credits
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/credits-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/credits-light.svg">
+  <img width="100%" alt="End credits. Directed by Ana Arezo. Produced at Curation. Filmed on location in London, UK. Written in TypeScript. Starring React and React Native. Styled with Tailwind CSS. Tested with Vitest and Jest. Fuelled by a perfectly brewed cup of tea. That's a wrap." src="assets/credits-dark.svg">
+</picture>
