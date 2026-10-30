@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 360" width="1000" height="360" role="img" aria-labelledby="t d">
 <title id="t">Ana Arezo, Mobile Engineer</title>
-<desc id="d">A grindhouse film title card in black, yellow and red, beside a code panel. React Native and Expo for mobile, and React for the web. 16+ years.</desc>
+<desc id="d">A grindhouse film title card in black, yellow and red, beside a code panel. React Native, Expo and React. 16+ years.</desc>
 <defs><clipPath id="r"><rect width="1000" height="360" rx="14"/></clipPath>
 <radialGradient id="bn"><stop offset="0" stop-color="#fff6d0"/><stop offset=".45" stop-color="#ff9a1f"/><stop offset=".8" stop-color="#d7261e"/><stop offset="1" stop-color="#d7261e" stop-opacity="0"/></radialGradient>
 <filter id="gr"><feTurbulence type="fractalNoise" baseFrequency=".85" numOctaves="2" stitchTiles="stitch"/><feColorMatrix type="saturate" values="0"/></filter></defs>
@@ -50,7 +50,7 @@
 <text class="e" x="52" y="72">A MOBILE PICTURE</text>
 <g class="ng"><text class="n" x="48" y="170">ANA AREZO</text></g>
 <g class="rb"><rect x="48" y="188" width="238" height="42" fill="#d7261e" transform="skewX(-10) translate(36)"/><text class="r" x="62" y="220">MOBILE ENGINEER</text></g>
-<text class="u h3" x="52" y="262">React Native · Expo · React for web</text>
+<text class="u h3" x="52" y="262">React Native · Expo · React</text>
 <text class="w h4" x="52" y="302">// say "undefined" again.</text>
 <rect x="520" y="36" width="444" height="288" rx="4" fill="#f5c518"/>
 <text class="f" x="544" y="66">PROLOGUE</text><text class="fm" x="940" y="64" text-anchor="end">ana.tsx</text>

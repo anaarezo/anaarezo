@@ -2,7 +2,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="assets/hero-light.svg">
-    <img width="100%" alt="Ana Arezo, Mobile Engineer. React Native and Expo for mobile, and React for the web." src="assets/hero-dark.svg">
+    <img width="100%" alt="Ana Arezo, Mobile Engineer. React Native, Expo and React." src="assets/hero-dark.svg">
   </picture>
 </a>
 
